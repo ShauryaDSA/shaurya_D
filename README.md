@@ -1,2 +1,2 @@
 # shaurya_D
-This is Git and Git Hub
+This is Git and Git Hub.
